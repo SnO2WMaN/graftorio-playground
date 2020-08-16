@@ -1,0 +1,3 @@
+[submodule "graftorio"]
+	path = graftorio
+	url = https://github.com/TheVirtualCrew/graftorio.git
